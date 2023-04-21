@@ -1,0 +1,9 @@
+v 4
+file "/home/mmazz/phd/fpga/ej1/" "mod_m_counter_prog_tb.vhd" "a558cbe0146c23d838f73b536c2324cbce1fbc0b" "20230421202539.333":
+  entity mod_m_counter_prog_tb at 1( 0) + 0 on 15;
+  architecture rtl of mod_m_counter_prog_tb at 9( 139) + 0 on 16;
+file "/home/mmazz/phd/fpga/ej1/" "src/mod_m_counter_prog.vhd" "2edb27c830b4851573563f74a2f997c6e6f0b058" "20230421202539.332":
+  entity mod_m_counter_prog at 1( 0) + 0 on 11;
+  architecture rtl of mod_m_counter_prog at 18( 464) + 0 on 12;
+  entity led_controller at 37( 1078) + 0 on 13;
+  architecture structural of led_controller at 54( 1515) + 0 on 14;
