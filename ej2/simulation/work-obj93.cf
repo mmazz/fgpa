@@ -1,0 +1,9 @@
+v 4
+file "/home/pong/Documents/fgpa/ej2/" "src/mod_m_counter_prog.vhd" "53ac05a5c48575641ba8f27fa71e155d25622346" "20230427223234.235":
+  entity mod_m_counter_prog at 1( 0) + 0 on 89;
+  architecture rtl of mod_m_counter_prog at 17( 406) + 0 on 90;
+  entity stopwatch at 38( 1097) + 0 on 91;
+  architecture structural of stopwatch at 54( 1464) + 0 on 92;
+file "/home/pong/Documents/fgpa/ej2/" "mod_m_counter_prog_tb.vhd" "df45b094db3eb5c8f83526bb62d34f26e3c2a4b4" "20230427223234.237":
+  entity mod_m_counter_prog_tb at 1( 0) + 0 on 93;
+  architecture rtl of mod_m_counter_prog_tb at 9( 139) + 0 on 94;
